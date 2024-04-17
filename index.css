@@ -44,6 +44,7 @@ body {
   font-weight: 400;
   padding: 5.3rem 0;
   color: var(--DarkBlue);
+  background-color: var(--LightGray);
 }
 
 .cards-section {
@@ -109,7 +110,7 @@ body {
 }
 
 .headings-contrainer--desc {
-  max-width: 60%;
+  color: var(--GrayishBlue);
 }
 .icon-container {
   text-align: end;
